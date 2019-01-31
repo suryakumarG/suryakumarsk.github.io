@@ -1,0 +1,25 @@
+div.home{
+    text-align: justify;
+}
+
+.vlineedu {
+    border-left: 6px solid green;
+    height: 300px;
+    float: right;
+}
+.card{
+    border: none;
+    background-color :rgba(255, 255, 255, 0.315);
+}
+
+
+  body {
+    margin: 0;
+    font-family: Arial;
+  }
+  
+ 
+  
+  
+  
+ 
